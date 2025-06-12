@@ -3,16 +3,52 @@
 A modern, responsive dashboard for managing news content, filtering articles, calculating payouts for authors, and exporting reports. Built with Next.js, Tailwind CSS, and React Context API.
 
 ---
-![Alt text](n1.png)
-![Alt text](n2.png)
-![Alt text](n3.png)
-![Alt text](n4.png)
-![Alt text](n5.png)
-![Alt text](n6.png)
-![Alt text](n7.png)
-![Alt text](n8.png)
-![Alt text](n9.png)
-![Alt text](n10.png)
+
+
+<!-- 🔧 To change text size, edit `font-size` in the <div> tags (e.g., 30px) -->
+<!-- 🧩 To adjust spacing between images, modify `margin-right` in <img> style -->
+
+<div align="center">
+
+<img src="LoginPage.png" alt="Login Page" />
+
+**<div style="font-size:30px; margin-top: 5px;">Login Page</div>**
+
+---
+
+<img src="n1.png" alt="Dashboard 1" style="margin-right:10px;" />
+<img src="n4.png" alt="Dashboard 2" />
+
+**<div style="font-size:30px; margin-top: 5px;">Dashboard</div>**
+
+---
+
+<img src="n3.png" alt="Articles" />
+
+**<div style="font-size:30px; margin-top: 5px;">Articles</div>**
+
+---
+
+<img src="n5.png" alt="Analytics 1" style="margin-right:10px;" />
+<img src="n10.png" alt="Analytics 2" />
+
+**<div style="font-size:30px; margin-top: 5px;">Analytics</div>**
+
+---
+
+<img src="n8.png" alt="Payout" />
+
+**<div style="font-size:30px; margin-top: 5px;">Payout</div>**
+
+---
+
+<img src="n9.png" alt="Settings" />
+
+**<div style="font-size:30px; margin-top: 5px;">Settings</div>**
+
+</div>
+
+
 
 ## 📝 Features
 
