@@ -3,6 +3,16 @@
 A modern, responsive dashboard for managing news content, filtering articles, calculating payouts for authors, and exporting reports. Built with Next.js, Tailwind CSS, and React Context API.
 
 ---
+![Alt text](n1.png)
+![Alt text](n2.png)
+![Alt text](n3.png)
+![Alt text](n4.png)
+![Alt text](n5.png)
+![Alt text](n6.png)
+![Alt text](n7.png)
+![Alt text](n8.png)
+![Alt text](n9.png)
+![Alt text](n10.png)
 
 ## 📝 Features
 
